@@ -1,0 +1,2052 @@
+﻿12-hour clock                       12 saatlik zaman biçimi(IBM)
+12-hour time format                 12 saatlik zaman biçimi(IBM)
+24-hour clock                       24 saatlik zaman biçimi(IBM)
+24-hour time format                 24 saatlik zaman biçimi(IBM)
+A4 letter                           A4 Mektup(MAC)
+A4 small                            A4 küçük(MS)
+abbreviate                          kisaltmak(IBM)
+abbreviated                         kisaltilmis(MS)
+abbreviation                        kisaltma(MS)
+abnormal end(abend)                 olagandisi son(IBM)
+abort                               durdur(MAC) durdurmak(IBM);(tamamlamadan)
+abort action                        islemi durdur(MS)
+abort sequence                      durdurma dizisi(IBM)
+aborted connection                  durdurulmus baglanti(IBM)
+about                               hakkinda(MAC)(MS)
+Above                               Yukarida(MS)
+ABS()                               MUT()(MS)
+absolute                            mutlak(IBM)(MS)
+absolute address                    mutlak adres(IBM)
+absolute device                     mutlak aygit(IBM)
+absolute positioned object          mutlak konumlu nesne(MS)
+absolute positioned paragraph       mutlak konumlu paragraf(MS)
+absolute positioning                mutlak konumlama(IBM)
+absolute priority                   mutlak öncelik(IBM)
+Absolute reference                  Mutlak referans(MS)
+abstract                            soyut(IBM)(MS)
+terminal mode                       uçbirim durumu(MAC)
+terminate                           bitirmek(IBM) Sonlamak(MAC);Bitirmek / Sonlandirmak(MS)
+terminate and stay resident         program bitince yerlesik kalan program(IBM)
+Terminator                          Sonlayici(MAC)
+test                                sinama, sinamak(IBM)(MAC)
+text                                metin(IBM)(MAC)(MS)
+Text Area                           Metin Alani(MS)
+text attribute                      metin özniteligi(IBM)
+Text Boundaries                     Metinin Çevresi(MS)
+Text box                            Metn kutusu(MAC)(MS)
+Text characteristics                Metin özelikleri(MAC)
+text chart                          metin çizim(IBM)
+text cursor                         metin imleci(IBM)
+text editing                        metin düzenleme(MAC)
+text editor                         metin düzenleyici(IBM)
+text field                          metin alani(MAC)
+text file                           metin dosyasi(MAC)(MS)
+text file format                    metin dosyasi biçimi(MAC)
+text formatting program             metin biçimleme programi(IBM)
+Text generator                      Metin üreteci(MAC)
+text graphic                        metin grafigi(MAC)
+Text letter                         Metin harfi(MAC)
+Text mode                           Metin durumu(MAC) Metin kipi(MS)
+Text only                           salt-metin(MS) Salt metin belge(MAC)
+text property                       metin özellikleri(MAC)
+Text string                         Metin dizesi(MS)
+Text tool                           Metin araci(MAC)
+Text Translation                    Metin Çevirisi(MAC)
+text transparency                   metin saydamligi(IBM)
+text window                         metin penceresi(MAC)
+text wrap                           sözcük kaydirma(IBM);Metinle çevrele /Yaziyla çevrele(MS)
+text-only document                  salt metin belgesi(MAC)
+Text-Only Files                     Salt-Metin dosyalar(MS)
+Textual Cross-Reference             Metinsel Çapraz Referans(MS)
+Textual entry                       Metinsel girdi(MS)
+texture(graphics)                   doldurma deseni(IBM)
+Thai                                Tay dili(MAC)
+The volume name is                  Oylum adi:(MAC)
+theory                              kuram(IBM)
+thermal                             isil(IBM)
+Thesaurus                           Esanlamlilar sözlügü(MS)
+Thick                               Kalin(MS)
+Thin(typeface)                      ince(MS)
+third party                         üçüncü kisiler(IBM)
+This disk is damaged                Bu disk hasarli(MAC)
+thousands separator                 binlik basamak ayirici(IBM);Binler basamagi ayiricisi(MS)
+thrashing                           bosuna çalisma(IBM)
+Thread                              En küçük yürütme birimi(MS)
+threshold                           esik(IBM)
+throughput                          üretilen is(IBM)
+tick                                isaret, isaretlemek(IBM)
+tie line                            özel baglanti numarasi(IBM)
+tightly coupled                     siki bagli(IBM)
+Tiled                               Bölünmüs / paylastirilmis(MS)
+time                                zaman(IBM) saat(MAC) Saat / Zaman(MS)
+Time Differ.                        Saat Farki(MAC)
+time format                         zaman biçimi(IBM) Saat gösterim biçimi(MS)
+time frame                          zaman dilimi(IBM)
+Time icon                           Saat simgesi(MS)
+time of day clock                   sistem saati(IBM)
+time out                            zaman asimi(IBM)
+time sharing                        zaman paylasimi(IBM)
+time slice                          zaman dilimi(IBM)
+time slot                           zaman dilimi(IBM)
+time stamp                          zaman damgasi(IBM)
+Time Zone                           Saat Kusagi(MAC)
+timed IPL                           zamanlanmis ilk program yükleme(IBM)
+timeout                             zamanasimi(MAC)
+timer                               süreölçer(IBM)
+tip                                 fis ucu(IBM) ipucu(MS)
+Title                               Baslik(MAC)(MS)
+title bar                           baslik çubugu(IBM)(MAC)(MS)
+Title Page                          Baslik sayfasi(MAC)(MS)
+To file:                            Hedef dosya:(MAC)
+To:                                 Son:(MAC)
+TOC entry                           içindekiler ögesi(MS)
+TOC File                            içindekiler dosyasi(MS)
+TOC Generation                      içindekiler bölümü hazirlanmasi(MS)
+TOC Number Format                   içindekiler Numaralama Biçimi(MS)
+TOC(Style)                          içindekiler(biçem)(MS)
+Together                            Birlikte(MS)
+toggle                              degistirme(MAC)(MS)
+Toggle Case                         BÜYÜK / küçük harf degistir(MS)
+Toggle Case Key                     BÜYÜK / küçük degistir tusu(MS)
+Toggle keys                         geçis tuslari(MS)
+token                               simge(IBM)
+token ring adapter                  simgeli halka bagdastiricisi(IBM)
+token ring interface coupler        simgeli halka arabirimi baglayicisi(IBM)
+token ring network                  simgeli halka agi(IBM)
+tone                                koyuluk, ton, ses(IBM)
+tone dialing                        tuslu arama(IBM)
+toner                               koyultucu(IBM) Toner(yazici)(MS)
+Toner cartridge                     Toner kartusu(MS)
+tool                                araç(IBM)(MAC)
+Tool Box                            Arç Kutu(MAC)
+Tool error                          Araç hatasi(MAC)
+Tool palette                        Araç paleti(MAC)
+Toolbar                             Araç çubugu(MS)
+toolbox                             takim(MAC)
+toolkit                             araç takimi(IBM)
+Top                                 Üst(MAC)(MS)
+top margin                          üst marj(MAC) Üst Kenar Boslugu(MS)
+Top of Form(TOF)                    Formu üstü(TOF)(MAC)
+Top of page                         Sayfanin üstü(MAC)
+Top Row                             Üst Satir:(MAC)
+top window border                   pencere üst kenari(MS)
+Top(Header)                         Üstbilgi(MS)
+Top-of-Form command                 Formun üstü komutu(MAC)
+Top/Bottom Centers                  Üst/Alt merkezler(MAC)
+topdown programming                 yukaridan asagiya programlama(IBM)
+Topic                               Konu(MS)(MAC)
+topology                            topoloji(IBM)
+total                               toplam(IBM)
+total allocation units              toplam yerlesim birimi(IBM)
+Total disk capacity:                Toplam disk sigasi(MAC)
+total disk space                    toplam disk alani(IBM)
+Total Memory:                       Toplam Bellek:(MAC)
+Total RAM in use                    Kullanilan toplam bellek(RAM)(MAC)
+touch                               dokunmak(IBM)
+touch screen                        dokunma duyarli ekran(IBM)
+touch sensitive                     dokunma duyarli(IBM)
+touch sensitive screen              dokunma duyarli ekran(IBM)
+trace                               iz, izlemek(IBM)(MAC)(MS)
+Trace Edges                         Kenarlara iz Koy(MAC)
+trace file                          izleme kütügü(IBM)
+trace log                           izleme günlügü(IBM)
+trace table                         izleme çizelgesi(IBM)
+tracing facility                    izleme olanagi(IBM)
+track                               iz, izlemek(IBM) iz(MAC)
+track ball/trackball                imleç denetim topu(IBM) iztopu(MAC)
+track density                       iz yogunlugu(IBM)
+tracking                            izleme(IBM)
+trackpoint(device)                  imleç denetim aygiti(IBM)
+tractor                             çekici(IBM)
+trade secrets                       ticari sirlar(MAC)
+trademark                           ticari marka(IBM)(MS)
+Traditional Chinese                 Klasik Çince(MAC)
+trail                               iz, izlemek(IBM)
+trailer                             artbilgi(IBM)
+trailer card                        artbilgi karti(IBM)
+trailer label                       artetiket(IBM)
+trailer record                      artkayit(IBM)
+trailing space                      yazinin sagindaki bosluk(MS)
+Training                            Egitim(MAC)
+training disk                       egitim diski(MAC)
+training guide                      egitim rehberi(MAC)
+transaction                         hareket(IBM)
+transaction code                    hareket kodu(IBM)
+transaction file                    hareket kütügü(IBM)
+transceiver                         alici-verici(IBM)
+transcribe                          düzenleyerek aktarmak(IBM)
+transcription machine               yaziya dönüstürme makinesi(IBM)
+transfer                            aktarmak, aktarim(MAC) aktarmak(IBM)
+transfer rate                       aktarma hizi(IBM)
+transform                           dönüstürmek(IBM)
+transient area                      gelip geçici program alani(IBM)
+transient routine                   gelip geçici program(IBM)
+transistor                          transistor(IBM)
+transition                          geçis(IBM)
+translate                           çevirmek(IBM)(MAC)
+translator                          çevirmen(MAC)
+transmission                        iletim(IBM) gönderim(MAC)
+transmit                            iletmek(IBM) gönderme(MAC)
+transparent                         saydam(IBM)(MAC)
+transport                           tasimak(IBM)
+transport layer(OSI)                iletim katmani(IBM)
+trap                                yakalamak(IBM)
+Trash                               Çöp Sepeti(MAC)
+Travel Keys                         Gezinti tuslari(MS)
+tray                                tepsi(IBM)
+tree network                        agaç yapisinda ag(IBM)
+tree search                         agaç yapisinda arama(IBM)
+tree structure                      agaç yapisi(IBM)
+tributary                           bagimli(IBM)
+tributary station                   bagimli uçbirim(IBM)
+trigger                             tetiklemek(IBM)
+trim                                kirpmak(IBM)
+Triple spacing                      üçlü bosluk(MS)
+trivial                             önemsiz(IBM)
+troubleshoot                        sorun gidermek(IBM)
+TroubleShooting                     Aksakliklari giderme(MAC) sorun giderme(MS)
+True Autosave                       Gerçek Otomatik Kaydetme(MS)
+True Type font                      True Type yazitipleri(MS)
+TrueType                            TrueType(MAC)
+truncate                            kesmek(IBM)
+trunk                               telefon hatti(IBM)
+trunk cable(ESCON)                  ana kablo(IBM)
+Try again                           Tekrar Dene(MAC)
+tune                                ayarlamak(IBM)
+Turkish                             Türkçe(MAC)
+turn off                            kapamak(IBM) kapat(MS)
+turn on                             açmak(IBM)(MS)
+turn-key                            anahtar teslimi(IBM)
+turn-key project                    anahtar teslim proje(IBM)
+turnaround time                     (is) dönüs süresi, yön degistirme; süresi(modem)(IBM)
+turnover                            devir, devir hizi(IBM)
+turquaise                           turkuvaz(MAC)
+tutorial                            ögretici(IBM)(MS) baslangiç(MAC)
+Tutorial Help                       Ögretici Yardim(MS)
+Tutorial window                     Ögretici penceresi(MS)
+twin                                ikiz(IBM)
+twinaxial                           ikizeksenli(IBM)
+Two page monochrome monitor         iki sayfalik siyah beyaz ekran(MAC)
+Two-dimensional Array               iki boyutlu dizi(MS)
+Two-drive system                    Çift disk sürücülü sistem(MS)
+Two-headed arrow                    Çift basli ok(MS)
+Two-headed up-and-down arrow        Çift basli yukari-asagi oku(MS)
+Two-Sided                           Çift Yüzlü(MAC)
+Type                                Tip, tür(IBM)(MAC)
+Type head                           Yazi basligi(MAC)
+type size                           yazi puntosu(MAC)
+Type(to)                            Tuslamak / yazmak(MS)
+Typeface                            Yazi biçimi(MS)
+typeface/type face                  yazi biçimi(IBM)(MS)(MAC)
+typefont                            yazi tipi(IBM)
+typematic key                       yinelemeli tus(IBM)
+typeset                             karakter dizmek(IBM)
+Typesetter                          Karakter dizicisi(MS)
+Typesetting system                  Karakter dizici sistem(MS)
+typewriter                          yazimakinesi(IBM)
+typing error                        yazim hatasi(MS)
+Typing replaces selection           Yazilan seçilenin yerini alir(MS)
+UI(User Interface)                  Kullanici arabirimi(MS)
+Ukrainian                           Ukraynaca(MAC)
+ultraviolet                         morötesi(IBM)
+Unable                              olanaksiz(MAC)
+unary                               birli(IBM)
+Unassign(to)                        Atamayi iptal etmek(MS)
+unattended                          gözetimsiz(IBM)
+unattended operation                gözetimsiz islem(IBM)
+unavailable choice                  kullanilamayan seçenek(IBM)
+unbalanced                          dengelenmemis(IBM)
+unbind                              baglanti çözmek(IBM)
+unblock                             blok çözmek(IBM)
+uncheck(to)                         onayi kaldir(MS)
+Uncollated copies                   Harmanlanmamis kopyalar(MS)
+uncommitted read(SQL)               kesinlesmemis okuma(IBM)
+unconditional                       kosulsuz(IBM)
+underline                           altçizgi, altini çizmek(IBM)(MAC)
+underscore                          altçizgi, altini çizmek(IBM)(MAC)(MS)
+underscore character                altçizgi karakteri(MAC)
+undo                                geri almak(IBM)(MS) Geri Al(MAC)
+Undo command                        Geri alma komutu(MS)
+Undo Revisions                      Düzeltmeleri geri al(MS)
+unformatted                         biçimlenmemis(IBM)
+uniform                             birörnek(IBM)
+UNINDENT(Keyname)                   GiRiNTiSiZ(MS)
+union(SQL)                          bilesim(IBM)
+unipolar                            tek kutuplu(IBM)
+unique                              benzersiz(IBM)
+unique key                          benzersiz anahtar(IBM)
+Unique Records Only                 Kayit Tekrarlanmasin(MAC)
+unit                                birim(IBM)
+Unit of measurement                 ölçü birimi(MS)
+unit of text                        metin parçasi(MS)
+universal                           evrensel(IBM)
+Unknown                             Bilinmeyen(MAC)
+unknown error                       bilinmeyn hata(MAC)
+unknown problem                     bilinmeyen sorun(MAC)
+unlink                              bag çözmek(IBM) Bagi kopar(MS)
+Unlinking a Field                   Alanin bagini koparmak(MS)
+unload(tape)                        bosa almak(IBM)
+unlock(to)                          (kilidi) açmak(MS)(MAC)
+Unlocking a document                dokümanin kilidini açma(MS)
+Unlocking a field                   alanin kilidini açma(MS)
+unmapped                            eslenmemis(IBM)
+unmarked column                     imlenmemis sütun(MS)
+unmount                             baglantiyi kaldirma(MAC)
+unnamed                             adsiz(MS)(MAC)
+UNNEST(Keyname)                     içiçelikten kurtar(MS)
+unnumbered                          numarasiz(IBM)
+unordered list                      sirasiz liste(IBM)
+unpack                              paket çözmek(IBM)
+unqualified                         nitelenmemis(IBM)
+unrecoverable                       kurtarilamaz(IBM)
+unrecoverable error                 kurtarilamaz hata(IBM)
+UNSPIKE(Keyname)                    Depoyu bosalt(MS)
+Untitled                            Adsiz(MAC)
+Untitled document                   Adsiz belge(MAC)
+unwind                              makaradan çikarmak(IBM)
+Up                                  Yukari(MS)
+Up arrow                            Yukari ok(MAC)
+Up arrow icon                       Yukari ok simgesi(MS)
+Up arrow key                        Yukari ok tusu(MS)
+Up key                              Yukari(ok) tusu(MS)
+up-time                             isletim süresi(IBM)
+up-to-date                          güncel(IBM)
+update                              güncellemek(IBM)(MAC) Güncellestirmek(MS)
+update authority                    güncelleme yetkisi(IBM)
+update event                        günceleme olayi(MAC)
+Update Fields                       Alanlari güncellestir(MS)
+Update folder                       Güncelleme klasörü(MAC)
+update region                       güncelleme bölgesi(MAC)
+upgrade                             büyütmek(IBM)
+Upgrade kit                         Sürüm güncelleme paketi(MAC)
+upline                              merkeze dogru(IBM)
+upload                              (yukari) yüklemek(IBM)
+Upper                               Üst(MS)
+upper shift                         üst karakter tusu(IBM)
+Upper-left                          Sol-üst(MS)
+Upper-right                         Sag-üst(MS)
+uppercase                           büyük harf(IBM)(MAC)(MS)
+Uppercase Roman numerals            BÜYÜK Roma rakamlari(MS)
+Upside down                         Tepe taklak / Basasagi(MS)
+upsizing                            büyütme(IBM)
+upstream                            yukari akim(IBM)
+upward compatibility                yukariya dogru uyumluluk(IBM)
+Urdu                                Urduca(MAC)
+US Legal                            8 1/x14 inç(MAC)
+US Letter                           8 1/2x11 inç(MAC)
+usability                           kullanilirlik(IBM)
+usability test                      kolay kullanim sinamasi(IBM)
+usable                              kullanilir(IBM)
+use authority                       kullanma yetkisi(IBM)
+Use MiniFinder                      MiniFinder'i kulla(MAC)
+user                                kullanici(IBM)(MAC)(MS)
+user area                           kullanici alani(MAC)
+User Dialog                         Kullanici iletisimi(MS)
+User dictionary                     Kullanici sözlügü(MS)
+about    hakkında
+above    yukarıda
+across    karşısında
+act    hareket
+active    aktif
+activity    etkinlik
+add    eklemek
+afraid    korkmuş
+after    sonra
+again    tekrar
+age    yaş
+ago    önce
+agree    anlaşmak
+air    hava
+all    tüm
+alone    yalnız
+along    boyunca
+already    zaten
+am    duyuyorum
+amount    miktar
+an    bir
+and    ve
+angry    kızgın
+another    başka
+answer    cevap
+any    herhangi
+anyone    kimse
+appear    görünmek
+apple    elma
+are    vardır
+area    alan
+arm    kol
+army    ordu
+around    etrafında
+arrive    varmak
+art    sanat
+as    olarak
+ask    sormak
+at    at
+attack    saldırı
+aunt    teyze
+autumn    sonbahar
+away    uzakta
+baby	   bebek
+back	   geri
+bad	   kötü
+bag	   çanta
+ball	   top
+bank	   banka
+base	   baz
+basket	   sepet
+bath	   banyo
+be	   olmak
+bean	   fasulye
+bear	   ayı
+beautiful	   güzel
+bed	   yatak
+beer	   bira
+before	   önce
+begin	   başla
+behave	   davranmak
+behind	   arkasında
+bell	   çan
+below	   aşağıda
+besides	   dışında
+between	   arasında
+big	   büyük
+bird	   kuş
+birth	   doğum
+bit	   bit
+bite	   ısırmak
+black	   siyah
+bleed	   boşaltmak
+block	   blok
+blood	   kan
+blow	   darbe
+blue	   mavi
+board	   tahta
+boat	   tekne
+body	   vücut
+boil	   çıban
+bone	   kemik
+book	   kitap
+border	   sınır
+born	   doğmuş
+bottle	   şişe
+bottom	   alt
+bowl	   çanak
+box	   kutu
+boy	   oğlan
+branch	   şube
+brave	   cesur
+bread	   ekmek
+break	   mola
+breakfast	   kahvaltı
+bridge	   köprü
+bright	   parlak
+bring	   getirmek
+brother	   kardeş
+brown	   kahverengi
+brush	   fırça
+burn	   yanmak
+bus	   otobüs
+business	   iş
+busy	   meşgul
+but	   ama
+by	   tarafından
+cake	   kek
+call	   çağrı
+can	   konserve
+candle	   mum
+cap	   kapak
+car	   araba
+card	   kart
+care	   bakım
+careful	   dikkatli
+careless	   dikkatsiz
+carry	   taşımak
+case	   durum
+cat	   kedi
+catch	   yakalamak
+central	   merkezi
+century	   yüzyıl
+certain	   kesin
+chair	   sandalye
+chance	   şans
+change	   değişim
+chase	   kovalamak
+cheap	   ucuz
+cheese	   peynir
+chicken	   tavuk
+child	   çocuk
+children	   çocuklar
+chocolate	   çikolata
+choice	   seçim
+choose	   seçmek
+circle	   daire
+city	   şehir
+class	   sınıf
+clean	   temiz
+clear	   açık
+clever	   zeki
+climb	   tırmanış
+clock	   saat
+close	   yakın
+cloth	   bez
+clothes	   giysi
+cloud	   bulut
+cloudy	   bulutlu
+coat	   ceket
+coffee	   kahve
+coin	   sikke
+cold	   soğuk
+collect	   toplamak
+colour	   renk
+comb	   tarak
+come	   gelmek
+comfortable	   rahat
+common	   ortak
+compare	   karşılaştırmak
+complete	   tam
+computer	   bilgisayar
+condition	   durum
+contain	   içermek
+continue	   devam
+control	   kontrol
+cook	   aşçı
+cool	   serin
+copper	   bakır
+corn	   mısır
+corner	   köşe
+correct	   doğru
+cost	   maliyet
+count	   saymak
+country	   ülke
+course	   kurs
+cover	   kapak
+crash	   kaza
+cross	   çapraz
+cry	   ağlamak
+cup	   fincan
+cupboard	   dolap
+cut	   kesim
+dance	   dans
+dangerous	   tehlikeli
+dark	   karanlık
+daughter	   kız
+day	   gün
+dead	   ölü
+decrease	   azaltmak
+deep	   derin
+deer	   geyik
+depend	   bağlı
+desk	   masa
+destroy	   yıkmak
+develop	   geliştirmek
+die	   ölmek
+different	   farklı
+difficult	   zor
+direction	   yön
+dirty	   kirli
+discover	   keşfetmek
+dish	   bulaşık
+do	   yapmak
+dog	   köpek
+door	   kapı
+double	   çift
+down	   aşağı
+draw	   çizmek
+dream	   rüya
+dress	   elbise
+drink	   içki
+drive	   sürücü
+drop	   damla
+dry	   kuru
+duck	   ördek
+dust	   toz
+duty	   görev
+each	   her
+ear	   kulak
+early	   erken
+earn	   kazanmak
+earth	   toprak
+east	   doğu
+easy	   kolay
+eat	   yemek
+education	   eğitim
+effect	   etki
+egg	   yumurta
+eight	   sekiz
+either	   ya
+electric	   elektrik
+elephant	   fil
+else	   başka
+empty	   boş
+end	   son
+enemy	   düşman
+enjoy	   eglenmek
+enough	   yeterli
+enter	   girmek
+entrance	   giriş
+equal	   eşit
+escape	   kaçış
+even	   hatta
+evening	   akşam
+event	   olay
+ever	   hiç
+every	   her
+everybody	   herkes
+everyone	   herkes
+exact	   kesin
+examination	   muayene
+example	   örnek
+except	   dışında
+excited	   heyecanlı
+exercise	   egzersiz
+expect	   beklemek
+expensive	   pahalı
+explain	   açıklamak
+eye	   göz
+face	   yüz
+fact	   gerçek
+fail	   başarısız
+fall	   düşmek
+false	   yanlış
+family	   aile
+famous	   ünlü
+far	   uzak
+farm	   çiftlik
+fast	   hızlı
+fat	   yağ
+father	   baba
+fault	   hata
+fear	   korku
+feed	   besleme
+feel	   hissetmek
+female	   kadın
+fever	   ateş
+few	   az
+fight	   kavga
+fill	   doldurmak
+film	   film
+find	   bulmak
+fine	   ince
+finger	   parmak
+finish	   bitirmek
+fire	   yangın
+first	   ilk
+fit	   uygun
+five	   beş
+fix	   düzeltmek
+flag	   bayrak
+flat	   düz
+float	   şamandıra
+floor	   zemin
+flour	   un
+flower	   çiçek
+fly	   uçmak
+fold	   kat
+food	   gıda
+fool	   aptal
+foot	   ayak
+football	   futbol
+for	   için
+force	   kuvvet
+foreign	   yabancı
+forest	   orman
+forget	   unutmak
+forgive	   affetmek
+fork	   çatal
+form	   form
+four	   dört
+fox	   tilki
+free	   ücretsiz
+freedom	   özgürlük
+freeze	   dondurmak
+fresh	   taze
+friend	   arkadaş
+friendly	   samimi
+from	   itibaren
+front	   ön
+fruit	   meyve
+full	   tam
+fun	   eğlence
+funny	   komik
+furniture	   mobilya
+further	   ayrıca
+future	   gelecek
+game	   oyun
+garden	   bahçe
+gate	   kapı
+general	   genel
+gentleman	   beyefendi
+get	   almak
+gift	   hediye
+give	   vermek
+glad	   memnun
+glass	   cam
+go	   gitmek
+goat	   keçi
+god	   Allah
+gold	   altın
+good	   iyi
+grandfather	   dede
+grandmother	   büyükanne
+grass	   çim
+grave	   mezar
+great	   büyük
+green	   yeşil
+grey	   gri
+ground	   zemin
+group	   grup
+grow	   büyümek
+gun	   silah
+hair	   saç
+half	   yarım
+hall	   salon
+hammer	   çekiç
+hand	   el
+happen	   ne
+happy	   mutlu
+hard	   sert
+hat	   şapka
+hate	   nefret
+have	   var
+head	   kafa
+healthy	   sağlıklı
+hear	   duymak
+heart	   kalp
+heaven	   cennet
+heavy	   ağır
+height	   yükseklik
+hello	   merhaba
+help	   yardım
+hen	   tavuk
+her	   onu
+here	   işte
+hers	   onunki
+hide	   gizlemek
+high	   yüksek
+hill	   tepe
+him	   onu
+his	   onun
+hit	   vurmak
+hobby	   hobi
+hold	   tutmak
+hole	   delik
+holiday	   tatil
+home	   ev
+hope	   umut
+horse	   at
+hospital	   hastane
+hot	   sıcak
+hotel	   otel
+hour	   saat
+house	   ev
+how	   nasıl
+hundred	   yüz
+hungry	   aç
+hurry	   acele
+hurt	   zarar
+husband	   koca
+ice	   buz
+idea	   fikir
+if	   eğer
+important	   önemli
+in	   içinde
+increase	   artırmak
+inside	   içinde
+into	   içine
+introduce	   tanıtmak
+invent	   icat
+invite	   davet
+iron	   demir
+is	   olduğunu
+island	   ada
+its	   onun
+jelly	   jöle
+job	   iş
+join	   katılmak
+juice	   meyve_suyu
+jump	   atlamak
+just	   sadece
+keep	   tutmak
+key	   anahtar
+kill	   öldürmek
+kind	   tür
+king	   kral
+kitchen	   mutfak
+knee	   diz
+knife	   bıçak
+knock	   vurmak
+know	   bilmek
+ladder	   merdiven
+lady	   bayan
+lamp	   lamba
+land	   arazi
+large	   büyük
+last	   son
+late	   geç
+lately	   son_zamanlarda
+laugh	   gülmek
+lazy	   tembel
+lead	   kurşun
+leaf	   yaprak
+learn	   öğrenmek
+leave	   ayrılmak
+left	   sol
+leg	   bacak
+lend	   ödünç
+length	   uzunluk
+less	   azımsı
+lesson	   ders
+let	   let
+letter	   mektup
+library	   kütüphane
+lie	   yalan
+life	   hayat
+light	   ışık
+like	   gibi
+lion	   aslan
+lip	   dudak
+list	   liste
+listen	   dinlemek
+little	   küçük
+live	   canlı
+lock	   kilitlemek
+lonely	   yalnız
+long	   uzun
+look	   bakmak
+lose	   kaybetmek
+lot	   çok
+love	   aşk
+low	   düşük
+lower	   alt
+luck	   şans
+machine	   makine
+main	   ana
+make	   yapmak
+male	   erkek
+man	   adam
+many	   çok
+map	   harita
+mark	   marka
+market	   pazar
+marry	   evlenmek
+matter	   madde
+may	   may
+me	   beni
+meal	   yemek
+mean	   ortalama
+measure	   ölçmek
+meat	   et
+medicine	   tıp
+meet	   karşılamak
+member	   üye
+mention	   anma
+method	   yöntem
+middle	   orta
+milk	   süt
+million	   milyon
+mind	   zihin
+minute	   dakika
+miss	   bayan
+mistake	   hata
+mix	   karıştırmak
+model	   model
+modern	   modern
+moment	   an
+money	   para
+monkey	   maymun
+month	   ay
+moon	   ay
+more	   daha
+morning	   sabah
+most	   en
+mother	   anne
+mountain	   dağ
+mouth	   ağız
+move	   hareket
+much	   çok
+music	   müzik
+must	   şart
+my	   benim
+name	   isim
+narrow	   dar
+nation	   ulus
+nature	   doğa
+near	   yakın
+nearly	   neredeyse
+neck	   boyun
+need	   gerek
+needle	   iğne
+neighbour	   komşu
+neither	   ne
+net	   net
+never	   asla
+new	   yeni
+news	   haber
+newspaper	   gazete
+next	   sonraki
+nice	   güzel
+night	   gece
+nine	   dokuz
+no	   hayır
+noble	   asil
+noise	   gürültü
+none	   hiçbiri
+nor	   ne
+north	   kuzey
+nose	   burun
+not	   değil
+notice	   ihbar
+now	   şimdi
+number	   numara
+obey	   itaat
+object	   nesne
+ocean	   okyanus
+off	   kapalı
+offer	   teklif
+office	   ofis
+often	   sık_sık
+oil	   yağ
+old	   eski
+on	   üzerinde
+one	   bir
+only	   sadece
+open	   açık
+opposite	   karşısında
+or	   veya
+orange	   turuncu
+order	   sipariş
+other	   diğer
+our	   bizim
+out	   dışarı
+outside	   dışında
+over	   üzerinde
+own	   kendi
+page	   sayfa
+pain	   ağrı
+paint	   boya
+pair	   çift
+pan	   tava
+paper	   kâğıt
+parent	   ebeveyn
+park	   park
+part	   bölüm
+partner	   ortak
+party	   parti
+pass	   geçmek
+past	   geçmiş
+path	   yol
+pay	   ödeme
+peace	   barış
+pen	   kalem
+pencil	   kalem
+people	   insanlar
+pepper	   biber
+per	   başına
+perfect	   mükemmel
+period	   dönem
+person	   kişi
+petrol	   benzin
+photograph	   fotoğraf
+piano	   piyano
+pick	   almak
+picture	   resim
+piece	   parça
+pig	   domuz
+pin	   pim
+pink	   pembe
+place	   yer
+plane	   düzlem
+plant	   bitki
+plastic	   plastik
+plate	   plaka
+play	   oyun
+please	   lütfen
+pleased	   memnun
+plenty	   bol
+pocket	   cep
+point	   nokta
+poison	   zehir
+police	   polis
+polite	   kibar
+pool	   havuz
+poor	   fakir
+popular	   popüler
+position	   pozisyon
+possible	   mümkün
+potato	   patates
+pour	   dökmek
+power	   güç
+present	   mevcut
+press	   basın
+pretty	   güzel
+prevent	   önlemek
+price	   fiyat
+prince	   prens
+prison	   cezaevi
+private	   özel
+prize	   ödül
+probably	   muhtemelen
+problem	   sorun
+produce	   üretmek
+promise	   söz
+proper	   uygun
+protect	   korumak
+provide	   sağlamak
+public	   kamu
+pull	   çek
+punish	   cezalandırmak
+pupil	   öğrenci
+push	   itmek
+put	   koymak
+queen	   kraliçe
+question	   soru
+quick	   hızlı
+quiet	   sessiz
+quite	   oldukça
+radio	   radyo
+rain	   yağmur
+rainy	   yağışlı
+raise	   yükseltmek
+reach	   ulaşmak
+read	   okumak
+ready	   hazır
+real	   gerçek
+really	   gerçekten
+receive	   almak
+record	   kayıt
+red	   kırmızı
+remember	   hatırlamak
+remind	   hatırlatmak
+remove	   kaldır
+rent	   kira
+repair	   onarım
+repeat	   tekrar
+reply	   cevap
+report	   rapor
+rest	   dinlenme
+restaurant	   restoran
+result	   sonuç
+return	   dönüş
+rice	   pirinç
+rich	   zengin
+ride	   binmek
+right	   sağ
+ring	   halka
+rise	   artış
+road	   yol
+rob	   soymak
+rock	   kaya
+room	   oda
+round	   yuvarlak
+rubber	   kauçuk
+rude	   kaba
+rule	   kural
+ruler	   cetvel
+run	   koşmak
+rush	   acele
+sad	   üzücü
+safe	   güvenli
+sail	   yelken
+salt	   tuz
+same	   aynı
+sand	   kum
+save	   kurtarmak
+say	   demek
+school	   okul
+science	   bilim
+scissors	   makas
+search	   arama
+seat	   koltuk
+second	   ikinci
+see	   görmek
+seem	   görünmek
+sell	   satmak
+send	   göndermek
+sentence	   cümle
+serve	   servis
+seven	   yedi
+several	   birkaç
+sex	   cinsiyet
+shade	   gölge
+shadow	   gölge
+shake	   sallamak
+shape	   şekil
+share	   pay
+sharp	   keskin
+she	   kız
+sheep	   koyun
+sheet	   levha
+shelf	   raf
+shine	   parlaklık
+ship	   gemi
+shirt	   gömlek
+shoe	   ayakkabı
+shoot	   sürgün
+shop	   mağaza
+short	   kısa
+should	   gerekir
+shoulder	   omuz
+shout	   bağırmak
+show	   gösteri
+sick	   hasta
+side	   yan
+signal	   işaret
+silence	   sessizlik
+silly	   aptal
+silver	   gümüş
+similar	   benzer
+simple	   basit
+since	   beri
+single	   tek
+sink	   lavabo
+sister	   kardeş
+sit	   oturmak
+six	   altı
+size	   boyut
+skill	   beceri
+skin	   cilt
+skirt	   etek
+sky	   gökyüzü
+sleep	   uyku
+slip	   kayma
+slow	   yavaş
+small	   küçük
+smell	   koku
+smile	   gülümseme
+smoke	   duman
+snow	   kar
+so	   yani
+soap	   sabun
+sock	   çorap
+soft	   yumuşak
+some	   bazı
+someone	   birisi
+sometimes	   bazen
+son	   oğul
+soon	   yakında
+sorry	   üzgünüm
+sound	   ses
+soup	   çorba
+south	   güney
+space	   alan
+speak	   konuşmak
+special	   özel
+speed	   hız
+spell	   büyü
+spend	   harcamak
+spoon	   kaşık
+sport	   spor
+spread	   yayılma
+spring	   bahar
+Put back                            yerine koy(MAC)
+Puzzle                              Çözmece(MAC)
+quad                                dörtlü(IBM)
+qualified name                      nitelenmis ad(IBM)
+qualifier                           niteleyici(IBM)
+qualify                             nitelemek(IBM)
+quality                             nitelik, kalite(IBM) Kalite(MAC)
+Quality Assurance                   Kalite Kontrolu(MAC)
+quantified predicate(SQL)           çoklu karsilastirma belirtimi(IBM)
+quantify                            nicelemek(IBM)
+quantity                            nicelik, miktar(IBM)
+query                               sorgu(IBM)(MAC)
+queue                               kuyruk(IBM)(MS)
+Queue Terminate                     Kuyrugu yoket / temizle(MS)
+Queued Printing                     Sirali Bastirma(MS)
+quick                               çabuk(IBM)
+quiesce                             susturmak(IBM)
+quiet                               sessiz(IBM)
+quit                                ayrilis, ayrilmak(IBM) is Bitti(MAC) terket(MS)
+Quitting                            is Bitiminden(MAC)
+quotation mark                      tirnak imi(MS)
+quotient                            bölüm(IBM)
+rack                                raf(IBM)
+rack-mounted system                 raf yapisinda sistem(IBM)
+radiation                           isima(IBM)
+radio button                        radyo dügmesi(IBM)(MS)
+ragged edge                         düzensiz kenar(IBM)
+Raise level                         yükseltme düzeyi(MS)
+Raise(to)                           yükseltmek(MS)
+Raising Heading Level               Baslik düzeyini yükseltme(MS)
+RAM                                 RAM(MAC)
+RAM cache                           RAM önbellek(MAC)
+RAM Disk                            RAM disk(MS)
+RAM-resident Software               RAM' da yerlesik yazilim(MS)
+RAMDrive                            RAMSürücü(MS)
+random                              rastgele(IBM)(MAC)
+random access                       rastgele erisim(MAC)
+random-access device                rastgele erisimli aygit(MAC)
+random-access memory(RAM)           rastgele erisimli belek(RAM)(MAC)
+random-access text file             rastgele erisimli metin dosyasi(MAC)
+randomize                           rastgele dagitmak(IBM)
+range                               yayilma alani, aralik, seri(IBM);aralik(MAC) erim(MS)
+range check                         aralik kontrolü(MAC)
+range of cells                      hücre erimi(MS)
+rank                                düzey sirasi(IBM)
+raster                              taramali(IBM)
+raster count                        taranan çizgi sayisi(IBM)
+raster display device               taramali görüntü aygiti(IBM)
+raster font                         taramali yazi tipi(IBM)
+raster graphics                     taramali grafik(IBM)
+raster pattern                      tarama deseni(IBM)
+raster scan                         çizgi tarama(IBM)
+rate                                hiz, oran(IBM)
+Rate of Insertion Point Blinking    imlecin Yanip Sönme Hizi(MAC)
+ratio                               oran(IBM)
+rational number                     rasyonel sayi(IBM)
+raw                                 ham(IBM)
+re-                                 yeniden(IBM)
+reach                               ulasmak(IBM)
+read                                okumak(IBM)(MAC)(MS)
+read authority                      okuma yetkisi(IBM)
+read error                          okumada hata(MAC)
+Read Me documents                   Beni Oku elgeleri(MAC)
+Read Only                           Salt Oku(MAC) salt-okunur(MS)
+read only file                      salt-okunur dosya(MS)
+read-only                           yalnizca okunur(IBM)
+Read-only access                    Salt-okuma erisimi(MS)
+read-only memory                    salt oku bellek(MAC)
+Read-write access                   Oku-yaz erisimi(MS)
+readability score                   okunabilirlik derecesi(MS)
+readable character                  okunabilir karakter(MAC)
+reader                              okuyucu(IBM)
+Reading:                            Okunan:(MAC)
+ready                               hazir(IBM)
+Ready to start                      Baslamaya hazr(MAC)
+real                                gerçek(IBM)
+real mode                           gerçek kip(MS)
+real number                         gerçek sayi(IBM)
+rearrange                           yeniden düzenle(MS)
+Reassign                            Yeniden ata(MS)
+reboot                              sistemi yeniden yüklemek(IBM) yeniden basla(MAC)
+recall                              geri çagirmak(IBM)
+receipt                             alindi(IBM)
+receive                             almak(IBM)
+Receive File                        Alma Dosyas(MAC)
+receiver                            alici(IBM)
+Recent                              En son(MAC)
+receptacle                          yuva(IBM)
+reclamation                         geri isteme(IBM)
+recognition                         tanima(IBM)
+reconciliation                      uzlasma(IBM)
+record                              kayit, kaydetmek(IBM)(MS) kayit(MAC)
+record a macro                      makro kaydetmek(MS)
+Record Button                       Kayit dügmesi(MAC)
+Record Macro                        Makro Kaydet(MS)
+Recover(to)                         Kurtarmak(MS)(MAC)
+recoverable                         kurtarilir(IBM)
+recovery                            kurtarma(IBM)
+Recovery process                    Kurtarma islemi(MS)
+recovery routine                    kurtarma yordami(MAC)
+recursion                           özyineleme(IBM)
+recursive                           özyineli(IBM)
+recycle                             yeniden çevrime sokmak(IBM)
+Red                                 Kirmizi(MAC)
+Redefine(to)                        Yeniden tanimlamak(MS)
+redirection                         yeniden yönlendirme(IBM)
+Redo                                Yeniden yap(MAC) yinele(MS)
+Redraw                              Yeniden çiz(MS)
+reduce                              indirgemek(IBM) Küçült(MAC)(MS)
+Reduce or Enlarge                   Küçült veya büyüt(MAC)
+Reduce to fit                       Sigdiracak kadar küçült(MAC)
+reduction                           indirgeme(IBM)
+redundancy                          artiklik(IBM)
+redundancy check                    hata denetimi(IBM)
+reel                                makara(IBM)
+refer                               bakmak, basvurmak(IBM) yollamak(MAC)
+reference                           basvuru, ilgi, gönderi(IBM);danisma, yollama, referans(MAC)(MS)
+Reference field                     Referans alani(MS)
+reference line                      eksen kaydirma çizgisi(IBM)
+Referenced Document(RD) fields      Gönderme yapilan belge(RB) alanlari(MS)
+Referenced Item                     Gönderme yapilan öge(MS)
+reflect                             yansitmak(IBM)
+reflectance                         yansima orani(IBM)
+reflection                          yansima(IBM)
+refresh                             yenilemek(IBM)(MS)
+Refresh Field                       Yenileme Alani(MS)
+refresh rate                        Tarama hizi(MAC)
+regenerate                          yeniden üretmek(IBM)
+region                              bölge(IBM)(MAC)
+register                            yazmaç(IBM)(MAC)
+registered trademark                tescilli ticari marka(IBM) tescilli marka(MAC)
+Regular Hyphen                      Normal Tire(MS)
+Regular Link                        Normal Baglanti(MS)
+regulate                            düzene koymak(IBM)
+reiterate                           yinelemek(IBM)
+reject                              geri çevirmek(IBM)
+related words                       iliskili sözcükler(MS)
+relation                            iliski(IBM)
+relational                          iliskisel(IBM)
+relational database                 iliskisel veritabani(IBM)
+relational operator                 iliskisel isleç(IBM)
+relative                            göreli, bagil(IBM)
+relative data                       göreli veri(IBM)
+relative size pie                   orantili dilim(IBM)
+Relative to                         göreli(MS)
+relay                               ileti anahtarlamak, aktarma(IBM)
+relayed frame                       aktarilan çerçeve(IBM)
+release                             serbest birakmak, yayin(IBM);birakmak, yayin(MAC) serbest birakmak(MS)
+reliability                         güvenilirlik(IBM)
+relinquish                          birakmak(IBM)
+relocatable                         yerdegistirebilir(IBM)
+relocate                            yerdegistirmek(IBM)
+remainder                           kalan(IBM)
+remark                              açiklama(IBM)
+reminder                            animsatici(IBM)
+remote                              uzak(IBM)(MAC)
+remote computer                     uzak bilgisayar(MAC)
+remote controller                   uzak denetleyici(IBM)
+remote device                       uzak aygit(IBM)
+remote host                         uzak anasistem(IBM) uzak ana sistem(MAC)
+remote job entry                    uzaktan is girisi(IBM)
+remote power off                    uzaktan kapama(IBM)
+remote power on                     uzaktan açma(IBM)
+remote station                      uzak is istasyonu(IBM)
+remote system                       uzak sistem(IBM)(MAC)
+remote workstation                  uzak is istasyonu(IBM)
+remove                              kaldirmak(IBM) Sil(MAC) Çikarmak / Silmek(MS)
+Remove footers                      Atliklari sil(MAC)
+Remove Group                        Grubu sil(MAC)
+Remove headers                      Basliklari sil(MAC)
+Remove Page Break                   Sayfa Sonu iaretini Kaldir(MAC)
+Rename                              Ad Degistir(MAC);Yeniden isimlendirmek / Ad degistirmek(MS)
+Renumber(to)                        yeniden numaralandirmak(MS)
+reorder                             yeniden düzenlemek(IBM)
+reorganize                          yeniden düzenlemek(IBM)(MS)
+repaginate                          sayfalari yeniden numarala(MAC);Yeniden sayfalandir(MS)
+Repaginate Now                      Pimdi yeniden sayfalandir(MS)
+Repagination                        Yeniden sayfalandirma(MS)
+repair                              onarim(IBM)(MAC)
+Repair Automaticaly                 Otomatik Onarim(MAC)
+repeat                              yineleme(IBM)(MS) tekrarla(MAC)
+REPEAT COMMAND(Keyname)             KOMUTU YiNELE(MS)
+Repeat delay                        Tekrarlama gecikmesi(MAC)
+repeat key                          tekrar tusu(MAC)
+REPEAT SEARCH(Keyname)              YENiDEN ARA(MS)
+repertoire                          dagarcik(IBM)
+replace                             yerine koymak(IBM) Degistirmek(MAC)(MS)
+replace mode                        üstüne yazma kipi(sözcük islem)(IBM)
+Replace With:                       Yerine Konacak(MS)
+replicate                           kopyalamak(IBM)
+reply                               yanit(IBM)
+report                              rapor(IBM)(MAC)
+repository                          veri havuzu(IBM)
+representation                      gösterilis(IBM)
+reproduce                           çogaltmak(IBM)
+request                             istek(IBM)(MAC)
+Request item                        öge iste(MS)
+requester                           istek programi, isteyen(IBM)
+required carrier return             istenen satirbasi(IBM)
+required hyphen                     istenen kisa çizgi(IBM)
+required page break                 istenen sayfa sonu(IBM)
+required parameter                  zorunlu parametre(IBM)
+required space                      istenen ara(IBM)
+requirement                         gereksinme(IBM)
+rerun                               yeniden geçis, yeniden çalistirmak(IBM)
+Rescue                              Kurtarma(MAC)
+reserve                             ayirmak(IBM)
+reserved                            ayrilmis(IBM)
+reserved word                       özel amaçli sözcük(IBM)
+reservoir                           depo(IBM)
+reset                               ilk duruma getirmek(IBM) Sifirlamak(MS);Yeniden basla(hardware)
+Reset switch                        Reset tusu(MAC)
+Reshape Arc                         Yeniden Pekillendire Arki(MAC)
+Reshape Polygon                     Yeniden Pekillendirme Çokgeni(MAC)
+Reshape Yeniden                     Pekillendirme(MAC)
+resident                            yerlesik(IBM)
+Residing in Background              Artalanda kalan(MS)
+residual error ratio                kalan hata orani(IBM)
+residue                             artik(IBM)
+residue check                       sayi ile denetim(IBM)
+resilient                           aksakliga dayanikli(IBM)
+Resize                              Yeniden Boyutlandirma(MAC)(MS)
+Resize handles                      Yeniden boyutlandirma araçlari / tutamaklari(MS)
+resolution                          netlik(IBM) çözünürlük(MAC)(MS)
+resolve                             çözmek(IBM)
+resolver                            çözücü(IBM)
+resource                            kaynak(IBM)(MS) kaynak yazilim(MAC)
+response                            yanit(IBM) yanit vermek(MAC) Tepki / Yanit(MS)
+response time                       yanit süresi(IBM)
+restart                             yeniden baslatmak(IBM)(MAC)
+restore                             geri yüklemek(IBM)(MAC);Eski durumuna getirmek/önceki boyuta getirmek(MS)
+Restore a single file               Tek dosyayi geri yükle(MAC)
+Restore all files                   Tüm dosyalari geri yükle(MAC)
+restore button                      önceki boyuta getirme dügmesi(IBM)
+restrict                            sinirlamak(IBM)
+result                              sonuç(IBM)
+result field                        sonuç alani(IBM)
+Resulting Style                     ortaya çikan biçem(MS)
+results list                        sonuçlar listesi(MS)
+resume                              sürdür(MAC) devam etmek(MS)
+retail                              perakende(IBM)
+Retain Line Breaks                  Satir Sonlarini Koruma(MAC)
+retention                           saklama(IBM)
+retention cycle                     saklama süresi(IBM)
+retrieval                           alma(IBM)
+Retrieve                            Al(MAC) Almak / Okumak(MS)
+retrofit                            uyarlamak(IBM)
+retry                               yeniden denemek(IBM)
+return                              dönüs, dönmek(IBM) dön(MAC)
+return code                         dönüs kodu(IBM)
+return graphic                      gafige dön(MAC)
+Return key                          Return tusu(MAC)
+retype                              yeniden yaz/gir(MS)
+reusable                            yeniden kullanilir(IBM)
+reverse                             ters(IBM) Ters çevir(MS)
+reverse engineering                 ters mühendislik islemleri(MAC)
+reverse indexing                    yazma konumunu yukari alma(sözcük islem)(IBM)
+Reverse Print Order                 Yazdirma Sirasini Ters Çevir(MS)
+reverse video                       ters görüntü(IBM)
+Reversible(action)                  Geri alinabilir(islem)(MS)
+Revert                              Dön(MAC)
+Revert to Saved                     Kaydedilene Dön(MAC)
+review                              gözden geçirmek(IBM)(MAC)(MS)
+Revisable-Form Text(RFT)            RFT(Degistirilebilir Form Metni)(MS)
+Revised Text                        Düzeltilmis metin(MS)
+revision                            düzeltme(IBM)(MAC)
+revision bar                        degisiklik çubugu(IBM) Düzeltme çubugu(MS)
+Revision Marking                    Düzeltme imleme(MS)
+Revision Marks                      Düzeltme imleri(MS)
+Revision Numbers                    Düzeltme numarasi(MS)
+revision symbol                     degisiklik simgesi(IBM)
+rewind                              geri sarmak(IBM)
+ribbon                              serit(IBM)(MAC)(MS)
+Ribbon/Ruler                        Perit/Cetvel(MS)
+Rich Text Format                    RTF Dosya Biçimi(MS)
+Rich Text Format(RTF)               RTF(MS)
+Right                               Sag(MAC)
+right adjust                        sagdan ayarlamak(IBM)
+right align                         sagdan hizala(MAC)
+right aligned                       sagdan hizali(MAC)
+Right aligned / right justified     Sagdan hizali / saga yasli(MS)
+Right alignment                     Sagdan hizalama(MS)
+Right Flush                         Saga Yanastir(MS)
+Right indent                        Sagdan girinti(MS)
+right justify                       saga yaslamak(IBM) sagdan blokla(MAC)
+Right key                           Sag ok tusu(MS)
+right margin                        sag marj(MAC)
+RIGHT SHIFT                         SAª  ÜST-KARAKTER(MS)
+Right Sides                         Sag kenarlar(MAC)
+Right text                          Sag metin(MAC)
+Right-alignment box                 Sagdan hizalama kutusu(MAC)
+Right/Outside                       Sag/Dis(MS)
+ring                                halka(IBM)
+ring response                       yanit zili(MAC)
+RISC(Reduced Instruction Set Com    puter);RISC(indirgenmis Komut Takimi Bilgisayari)(IBM)
+rise                                yükselmek(IBM)
+risk                                risk(IBM)
+risk assesment                      risk degerlendirmesi(IBM)
+Roadmap                             Yol haritasi(MS)
+robot                               robot(IBM)
+robotic controller                  robot denetleyici(IBM)
+robotics                            robotbilim(IBM)
+roll                                kaydirmak(IBM)
+roll back                           degisiklikleri kaldirmak(IBM)
+roll in                             bellege getirmek(IBM)
+roll out                            bellekten yollamak(IBM)
+rollback(SQL)                       geridönüs(IBM)
+roller                              silindir(IBM)
+ROM                                 ROM(MAC)(MS)
+Roman numerals                      Roma rakamlari(MS)
+Romanian                            Romence(MAC)
+root                                kök(IBM)
+root directory                      kök dizin(IBM)(MS)
+root element                        kök öge(IBM)
+Roots(re: math function)            Kök(re:matematiksel)(MS)
+rotary dial                         çevirmeli arama(IBM)
+Rotate                              Döndür(MAC)
+Rotate Left                         SolaDöndür(MAC)
+Rotate Right                        Saga Döndür(MAC)
+rotation                            dönme(IBM)(MAC)
+rotation hot key                    dönüsümlü geçis tusu(IBM)
+rotational delay                    dönme gecikmesi(IBM)
+rotor                               rotor(IBM)
+round                               yuvarlak, yuvarlamak(IBM)
+Round Corners                       Köseleri Yuarla(MAC)
+Rounded-corner box                  Köseleri-yuvarlanmis kutu(MAC)
+route                               yöneltmek(IBM)
+router                              yöneltici(IBM)
+routine                             program(parçasi)(IBM) yordam(MAC)
+routing                             dagitim(IBM)
+routing entry                       yöneltme kaydi(IBM)
+row                                 satir, sira(IBM) satir(MAC)(MS)
+Row & Column Headings               Satir ve Sütun Basliklari(MAC)
+row boundary                        satir siniri(MS)
+Row Input Cell:                     Satir Girdi Hücresi:(MAC)
+row width                           satir genisligi(MAC)
+royalty                             telif ücreti(IBM)
+RTF(Rich Text Format)               RTF(MS)
+square	   kare
+stamp	   damga
+stand	   durmak
+star	   yıldız
+start	   başlangıç
+station	   istasyon
+stay	   kalmak
+steal	   çalmak
+steam	   buhar
+step	   adım
+still	   yine
+stomach	   mide
+stone	   taş
+stop	   dur
+store	   mağaza
+storm	   fırtına
+story	   öykü
+strange	   garip
+street	   sokak
+strong	   güçlü
+structure	   yapı
+student	   öğrenci
+study	   çalışma
+stupid	   aptal
+subject	   konu
+substance	   madde
+successful	   başarılı
+such	   böyle
+sudden	   ani
+sugar	   şeker
+suitable	   uygun
+summer	   yaz
+sun	   güneş
+sunny	   güneşli
+support	   destek
+sure	   emin
+surprise	   sürpriz
+sweet	   tatlı
+swim	   yüzmek
+sword	   kılıç
+table	   tablo
+take	   almak
+talk	   konuşma
+tall	   uzun
+taste	   tat
+taxi	   taksi
+tea	   çay
+teach	   öğretmek
+team	   takım
+tear	   gözyaşı
+telephone	   telefon
+television	   televizyon
+tell	   söylemek
+ten	   on
+tennis	   tenis
+terrible	   korkunç
+test	   test
+than	   göre
+that	   o
+their	   onların
+then	   sonra
+there	   orada
+these	   bunlar
+thick	   kalın
+thin	   ince
+thing	   şey
+think	   düşünmek
+third	   üçüncü
+this	   bu
+though	   gerçi
+threat	   tehdit
+three	   üç
+tidy	   düzenli
+tie	   kravat
+title	   başlık
+to	   için
+today	   bugün
+toe	   parmak
+together	   birlikte
+tomorrow	   yarın
+tonight	   bu gece
+too	   çok
+tool	   araç
+tooth	   diş
+top	   üst
+total	   toplam
+touch	   dokunma
+town	   şehir
+train	   tren
+tram	   tramvay
+travel	   seyahat
+tree	   ağaç
+trouble	   sorun
+true	   doğru
+trust	   güven
+try	   denemek
+turn	   dönüş
+type	   tip
+uncle	   amca
+under	   altında
+understand	   anlamak
+unit	   birim
+unnecessary	   gereksiz
+until	   kadar
+up	   yukarı
+use	   kullanım
+useful	   yararlı
+usual	   olağan
+usually	   genellikle
+vegetable	   sebze
+very	   çok
+village	   köy
+visit	   ziyaret
+voice	   ses
+vomit	   kusmak
+wait	   beklemek
+wake	   uyanmak
+walk	   yürüyüş
+want	   istemek
+warm	   sıcak
+wash	   yıkama
+waste	   atık
+watch	   izlemek
+water	   su
+way	   yol
+we	   biz
+weak	   zayıf
+wear	   aşınma
+weather	   hava_durumu
+wedding	   düğün
+week	   hafta
+weight	   ağırlık
+welcome	   karşılama
+well	   iyi
+west	   batı
+wet	   ıslak
+what	   ne
+wheel	   tekerlek
+when	   ne zaman
+where	   nerede
+which	   hangi
+while	   süre
+white	   beyaz
+who	   kim
+why	   neden
+wide	   geniş
+wife	   eş
+wild	   vahşi
+will	   irade
+win	   kazanmak
+wind	   rüzgar
+window	   pencere
+wine	   şarap
+wing	   kanat
+winter	   kış
+wire	   tel
+wise	   bilge
+wish	   dilek
+with	   ile
+without	   olmadan
+woman	   kadın
+wonder	   şaşkınlık
+word	   kelime
+work	   iş
+world	   dünya
+worry	   endişe
+worst	   berbat
+write	   yazmak
+wrong	   yanlış
+year	   yıl
+yes	   evet
+yesterday	   dün
+yet	   henüz
+you	   sen
+young	   genç
+your	   senin
+zero	   sıfır
+eraser         silgi
+join         katilmak
+leave         ayrilmak
+ruler         cetvel
+stay         kalmak
+take         almak
+africa         afrika
+america         amerika
+asia         asya
+australia         avustralya
+europe         avrupa
+draw         çizmek
+fly         uçmak
+marbles         bilye
+comic         karikatür
+ride         sürmek
+carry         tasimak
+catch         yakalamak
+climb         tirmanmak
+dive         dalmak
+drive         sürmek
+play         oyna
+take         çekmek
+meet         bulusmak
+wash         yikamak
+box         kutu
+brush         firçalamak
+cover         kaplamak
+experiment         deney
+fold         katlamak
+mix         karistirmak
+plant         dikmek
+shake         çalkalamak
+stir         karistirmak
+grey         gri
+men         erkekler
+chef         asçi
+dancer         dansçi
+farmer         çiftçi
+fireman         itfaiyeci
+pilot         pilot
+women         kadinlar
+singer         sarkici
+teacher         ögretmen
+vet         veteriner
+writer         yazar
+station         istasyon
+boot         çizme
+dress         elbise
+glove         eldiven
+hat         sapka
+shoes         ayakkabi
+skirt         etek
+socks         çorap
+trousers         pantolon
+wear         giyinmek
+autumn         sonbahar
+spring         ilkbahar
+summer         yaz
+winter         kis
+beard         sakal
+dark         karanlik
+cheerful         neseli
+energetic         zinde
+fair         adil
+famous         meshur
+freckles         çiller
+funny         komik
+nice         hos
+polite         kibar
+rude         kaba
+short         kisa
+tall         uzun
+shy         utangaç
+straight         düz
+wavy         dalgali
+bread         ekmek
+butter         tereyagi
+cheese         peynir
+honey         bal
+milk         süt
+olive         zeytin
+pasta         makarna
+soup         çorba
+tea         çay
+now         simdi
+later         sonra
+chickpea         nohut
+victory         zafer
+book         kitap
+abacus         abaküs
+september         eylül
+gelatin         jelatin
+stewardess         hostes
+olive         zeytin
+target         hedef
+heat         isi
+stomach         mide
+sip         yudum
+shoe         pabuç
+treatment         muamele
+register         sicil
+difficult         zor
+gloomy         los
+dismiss         çikar
+plant         bitki
+japanese         japon
+treachery         ihanet
+dome         kubbe
+summer         yaz
+branch         sube
+wrong         zulüm
+number         numara
+radio         radyo
+awake         uyanik
+duck         ördek
+secrecy         gizlilik
+phonograph         fonograf
+grape         üzüm
+step         üvey
+wildness         vahset
+stove         soba
+polygon         poligon
+merchant         tacir
+drugstore         eczane
+lime         ihlamur
+poison         zehir
+hope         umut
+nature         doga
+voting         oylama
+rocket         roket
+intermediary         araci
+computer         bilgisayar
+thermos         termos
+chef         asçi
+spoiled         simarik
+flower         çiçek
+pulse         nabiz
+sickle         orak
+complaint         sikayet
+sand         kum
+cause         sebep
+ice         buz
+production         üretim
+banister         tir
+factory         fabrika
+shame         utanç
+relativity         izafiyet
+expense         gider
+food         yemek
+life         ömür
+spring         pinar
+inventor         mucit
+advantage         avantaj
+other         diger
+judo         judo
+jonquil         fulya
+dead         ölü
+fear         korku
+battery         pil
+labourer         irgat
+shout         nida
+shah         sah
+planet         gezegen
+leader         lider
+document         belge
+cylinder         silindir
+goitre         guatr
+invention         icat
+uranium         uranyum
+hobby         hobi
+buzz         vizilti
+reach         ulasmak
+importance         ehemmiyet
+dubbing         dublaj
+usual         olagan
+pelican         pelikan
+same         özdes
+pirate         korsan
+island         ada
+slap         tokat
+unity         ünite
+chalk         tebesir
+combinatorial         tümlesik
+jam         reçel
+stress         vurgu
+guardian         veli
+user directory                      kullanici dizini(MS)
+user exit                           kullanici çikisi(IBM)
+user exit routine                   kullanici çikis yordami(IBM)
+user friendly/user-friendly         kullanisli(IBM) kullanici yaklasimli(MAC)
+user group                          kullanici grubu(MAC)(MS)
+user id                             kullanici kimligi(IBM)
+User Info                           Kullanici Bilgisi(MAC) Kullanici Tanimi(MS)
+user information window             kullanici bilgipenceresi(MAC)
+user interaction                    kullanici etkilesimi(IBM)
+user interface                      kullanici arabirimi(IBM)(MS);kullanici arayüzü(MAC)
+User interface toolbox              Kullanici arayüzü takimi(MAC)
+user keys                           kullanici tuslari(MAC)
+user level                          kullanici düzeyi(MAC)
+User Log                            Kullanici Günlügü(MAC)
+User Log Text                       Kullanici Günlügü Metni(MAC)
+user macro                          kullanici makrosu(MS)
+User Name                           Kullanici Adi(MAC)
+user object                         kullanicinin yarattigi nesne(IBM)
+user patch                          kullanici ilave prorami(MAC)
+user prefix                         kullanici öneki(MAC)
+user profile                        kullanici tanitimi(IBM)
+user profile data                   kullanici profil verisi(MS)
+user profile item                   kullanici profil ögesi(MS)
+user's guide                        kullanici kilavuzu(IBM)
+User's Name                         Kullanici Adi(MS)
+User's Profile                      Kullanici Profili(MS)
+User's Reference                    Kullanici Referansi(MS)
+user-defined collating sequence     kullanici tanimli birlestirme sirasi(IBM)
+Users list                          Kullanicilar listesi(MAC)
+Users menu                          Kullanicilar menüsü(MAC)
+Using math chip                     Matematik islemci kullanii(MAC)
+Utilities                           Yardimci uygulmalar(MS)
+utilities disk                      yardimci programlar diski(MAC)
+Utilities disk                      Yardimci uygulamalar diski(MS)
+Utilities Folder                    Yardimci  Programlar Klasörü(MAC)
+Utilities Group                     Yardimci Uygulamalar Grubu(MS)
+Utilities kit                       Yardimci programlar paketi(MAC)
+Utilities Users Guide               Yardimci Programlar Kullanim Kitabi(MAC)
+utility                             hizmet programi, olanak(IBM) yardimci(MAC);yardimci uygulama(MS)
+Utility application                 Yardimci uygulama(MS)
+Utility Disk                        Yardimi disk(MAC)
+utility program                     hizmet programi(IBM) Yardimci program(MAC);Yardimci uygulama
+utilize                             kullanmak(IBM)
+vaccine program                     asi programi(IBM)
+vacuum                              bosluk(IBM)
+valid                               geçerli(MS)
+Valid                               Geçerli(MAC)(MS)
+valid signal                        geçeri sinyal(MAC)
+validate                            geçerligini denetlemek, onaylamak(IBM)
+validation check                    geçerlik denetimi(IBM)
+validation test                     geçerlik sinamasi(IBM)
+validity                            geçerlik(IBM)
+value                               deger(IBM)(MS)(MAC)
+value added network                 deger katkili ag(IBM)
+Value Axis                          Deger Ekseni(MAC)
+variable                            degisken(IBM)(MAC)(MS)
+variable name                       degisken adi(MS)
+variable-height character           degisken-boylu karakter(MS)
+vary off                            kullanilmaz kilmak(IBM)
+vary on                             kullanilir kilmak(IBM)
+vary-off                            kapa(t)mak(IBM)
+vary-on                             açmak(IBM)
+vector                              vektör(IBM) vektör, yöney(MAC)
+vector graphic                      vektörel grafik(MS)
+vector symbol set(VSS)              Vektör Simge Takimi(IBM)
+vectorial                           vektöryel(IBM)
+vendor                              satici, saglayici(IBM)
+vendor logo program                 saglayici sirket adi altinda pazarlanan program(IBM)
+Venn diagram                        Venn semasi(IBM)
+verification test                   dogrulama sinamasi(IBM)
+verify                              dogrulamak(IBM) dogrulama, sinama(MAC)
+Verifying Format...                 Format inceleniyor...(MAC)
+Verifying:                          incelenen:(MAC)
+versatile                           çok yönlü(IBM)
+version                             baski, uyarlama(IBM) sürüm(MAC)(MS)
+version data                        veri uyarlamasi(MAC)
+Version Number                      Sürüm Numarasi(MS)
+vertical                            düsey(IBM)(MAC)(MS)
+Vertical Alignment                  Düsey Hizalama(MS)
+Vertical binding                    Düsey ciltleme(MS)
+Vertical hold                       düsey tutma(MAC)
+Vertical justification              Düsey bloklama(MS)
+Vertical lines                      Düsey çizgiler(MS)
+vertical redundancy check           dikey hata denetimi(IBM)
+Vertical rule                       Düsey kural(MAC)
+Vertical scroll                     Düsey kaydirma(MS)
+Vertical Scroll Bar                 Düsey Kaydirma Çubugu(MS)
+Vertical scrolling                  Düsey kaydirma(MS)
+Vertical size                       Düsey boyut(MAC)
+vertical spacing                    düsey bosuk(MAC)
+Vertical tabbing                    Düsey tab(MAC)
+Vertical two-headed Arrow           Çift basli düsey ok(MS)
+Vertical-feed envelope              Yaziciya dik giren zarf(MS)
+Vertically                          Düsey (olarak)(MS)
+Very Slow                           Çok Yavas(MAC)
+video                               görüntü(MAC)
+Video cable                         görünü kablosu(MAC)
+video card                          görüntü karti(MAC)
+Video Controller                    Görüntü Yönetici(MAC)
+video driver                        görüntü sürücüsü(MAC)
+Video Graphics Adapter              Video Grafik Bagdastirici(IBM)
+Video Graphics Array(VGA)           Video Grafik Dizisi(IBM) VGA Ekran Karti(MS)
+Video jack                          Görüntü baglantisi(MAC)
+video mode                          video kipi(IBM)
+video monitor                       görüntü monitörü(MAC)
+video port                          görüntü kapisi(MAC)
+Video screen                        Görüntü ekrani(MAC)
+video signal                        görüntü sinyali(MAC)
+videoconferencing                   video toplanti(IBM)
+view                                görünüm, görüntüleme(IBM) Görüntüle(MAC);Bakmak / Görüntülemek(MS)
+View angle                          Görüntüleme açisi(MAC)
+View Another                        Digerini Görüntüle(MAC)
+View level                          Görünüm düzeyi(MS)
+View menu                           Görüntüle menüsü(MAC)
+Viewing scale                       Görüntüleme ölçegi(MAC)
+viewpoint                           görüs(IBM)
+viewport                            görüntü kapisi(MAC)
+Views control panel                 Görüntüler denetim masasi(MAC)
+virtual                             varsayilan(IBM)
+virtual address                     varsayilan adres(IBM)
+virtual disk                        varsayilan disk(IBM)
+virtual drive                       varsayilan sürücü(IBM)
+virtual memory                      görüntü bellek(MAC)
+virtual printer                     varsayilan yazici(IBM)
+virus                               virüs(IBM)
+vision                              görüs(IBM)
+visual                              görsel(IBM)
+voice                               ses(IBM)
+Voice input                         Ses girisi(MAC)
+Voice input device                  Ses giris aygiti(MAC)
+voice recognition                   ses tanima(MAC)
+voice synthesizer                   ses birlestirici(IBM)
+voice-grade channel                 ses kanali(IBM)
+void                                geçersiz(IBM)
+volatile                            oynak(IBM)
+volatility                          oynaklik(IBM)
+volume                              oylum, cilt, birim(IBM) oylum, Ses Ayari(MAC)
+volume attributes                   oylum özellikleri(MAC)
+volume bitmap                       oylum ikil izdüsümü(MAC)
+volume directory                    oylum rehberi(MAC)
+Volume Info                         Oylum bilgisi(MAC)
+volume is locked                    oylum kiliti(MAC)
+volume label                        birim etiketi(IBM) oylum etiketi(MAC)
+Volume list                         Oylum listesi(MAC)
+volume name                         oylum adi(MAC)
+Volume Report                       Oylum Raporu(MAC)
+volume serial number                birim dizi numarasi(IBM)
+Volume summary                      Oylum özeti(MAC)
+Volumes menu                        Oylumlar menüsü(MAC)
+wafer                               yonga plakasi(IBM)
+wait                                beklemek(IBM)
+walk-through                        gözden geçirme(IBM)
+wand                                okuma kalemi(IBM)
+wand reader                         okuma kalemi(IBM)
+wanding                             kalemle okuma(IBM)
+warm                                sicak(IBM)
+warm restart                        sicak baslatma(IBM)
+warm start                          sicak baslatma(IBM)
+warning                             uyari(IBM)(MAC)
+Warning beep                        Sesli uyari sinyali(MS)
+warning message                     uyari iletisi(IBM)
+wave                                dalga(IBM)
+wavelength                          dalga uzunlugu(IBM)
+way                                 yol(IBM)
+Weekday                             Haftanin günü(MAC)
+weight                              agirlik(IBM)
+weighting                           agirlik verme(IBM)
+wet                                 islak(IBM)
+Wheel                               Teker / Çark(MS)
+Where:                              Konumu:(MAC)
+White                               Beyaz(MAC)
+White Space                         Alfabe disi karakter(MS)
+Whole                               Bütün(MAC)
+Wide                                En(MAC)
+wide area network                   genis iletisim agi(IBM);genis alan bilgisayar agi(MAC)
+wideband                            genis bant(IBM)
+widen(to)                           genisletmek(MS)
+Widow                               Sayfanin tepesinde tek basina kalan satir(MS)
+Widow and Orphan control            Sayfanin tepesinde/dibinde tek kalan satirlarin;
+Widow Control                       Sayfanin tepesinde tek basina;bir satirin kalmasinin engellenmesi(MS)
+widow line                          yalniz satir(IBM);Sayfanin tepesinde tek basina kalan satir(MS)
+width                               genislik(IBM)(MS)
+window                              pencere(IBM)(MAC)(MS)
+Window arranging                    Pencere düzenleme(MS)
+Window bar                          Pencere Çubugu(MS)
+Window border / frame               Pencere kenarligi / çerçevesi(MS)
+window corner                       pencere kösesi(MS)
+Window framework                    Pencere iskeleti(MS)
+Window Menu                         Pencere Menüsü(MS)
+Window panes                        Yari pencereler(MS)
+Window Split                        Yarim Pencere(MS)
+Window Split bar                    Yarim Pencere çubugu(MS)
+windowing                           pencereleme(IBM)
+Windowless                          Penceresiz(MS)
+wiper                               silici(IBM)
+wire                                tel(IBM)
+WMF format pictures                 WMF biçimli resimler(MS)
+word                                sözcük(IBM)(MAC)(MS)
+Word Count                          Sözcük Sayisi(MS)
+word processing                     sözcük islem(IBM)(MAC)(MS)
+word processor                      sözcük islem(MAC) Sözcük islemci(MS)
+word spill                          sözcük kaydirma(IBM)
+Word underline                      Sözcük altçizgisi(MS)
+word wrap                           sözcük kaydirma(IBM)(MAC)(MS)
+word wraparound                     sözcük kaydirma(MAC)
+word-selection break table          sözcük seçimi tablosu(MAC)
+word-wrapping break table           sözcük sarimi tablosu(MAC)
+work                                çalismak(IBM)
+Work area                           Çalisma alani(MS)
+work breakdown structure            is döküm
